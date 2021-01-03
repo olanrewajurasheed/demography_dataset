@@ -1,4 +1,6 @@
-# Dataset Source:
+#Demography dataset
+
+Dataset Source:
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
  
 The dataset consist of demographic data that was extracted from the 1994 US Census database. It was given for analysis as part of the capstone project on [https://www.freecodecamp.org] for its Data Analysis with Python Certification course
